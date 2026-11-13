@@ -1,0 +1,4 @@
+data/*.csv
+!data/calcofi_clean.csv
+.ipynb_checkpoints/
+__pycache__/
